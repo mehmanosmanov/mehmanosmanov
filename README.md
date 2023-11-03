@@ -15,7 +15,7 @@
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
-    <a href="https://www.java.com/" target="_blank" rel="noreferrer">
+    <a href="https://atlacademy.az/certificate/045483064224738" target="_blank" rel="noreferrer">
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" width="40" height="40"/>
     </a>
     <a href="https://spring.io/projects/spring-boot" target="_blank" rel="noreferrer">
