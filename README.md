@@ -4,6 +4,8 @@
 <h1 align="center">Hi<img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Mehman</h1>
 <h3 align="center">I'm a passionate Java developer</h3>
 
+<br/>
+<br/>
 
 ## 🚀 Languages and Technologies:
 
@@ -24,8 +26,32 @@
         <a href="https://git-scm.com/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/git.png"/> </a> 
 </p>
 
+<br/>
+<br/>
 
 
+<p align="center">
+    <a href="https://github.com/mehmanosmanov/github-readme-streak-stats">
+        <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Subham Raoniar's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=mehmanosmanov&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0"/>
+    </a>
+</p>
+
+## 📊 My Github Stats
+
+  <br/>
+    <a href="https://github.com/mehmanosmanov/github-readme-stats"><img alt="Mehman Osmanov's Github Stats" src="https://github-readme-stats.vercel.app/api?username=mehmanosmanov&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a>
+  <a href="https://github.com/mehmanosmanov/github-readme-stats"><img alt="Mehman Osmanov's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mehmanosmanov&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
+  <br/>
+  <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
+
+
+<br/>
+<br/>
+
+<a href="https://github.com/mehmanosmanov/github-readme-activity-graph"><img alt="Mehman Osmanov's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=mehmanosmanov&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
+
+<br/>
+<br/>
 
 ## Connect with me:
 
@@ -34,3 +60,6 @@
 [<img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" width="3.5%"/>](https://www.facebook.com/mehman.osmanow/)  &nbsp; 
 [<img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" width="3.5%"/>](https://www.instagram.com/mehman_osmanov/)  &nbsp;
 <a href="mailto:mehman.osmanow@gmail.com"> <img src="https://img.icons8.com/fluent/48/000000/gmail.png" width="4%"/>
+[<img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" width="4%"/>](https://www.hackerrank.com/mehmanosmanof)  &nbsp;
+
+
