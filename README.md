@@ -30,7 +30,7 @@
 ## Connect with me:
 
 [<img src="https://img.icons8.com/color/48/000000/twitter.png" width="4%"/>](https://twitter.com/mehman_osmanov)  &nbsp; 
-[<img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" width="3.5%"/>](https://www.linkedin.com/in/mehman/)  &nbsp; 
+[<img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" width="3.5%"/>](https://www.linkedin.com/in/mehman-osmanov-28a237221/)  &nbsp; 
 [<img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" width="3.5%"/>](https://www.facebook.com/mehman.osmanow/)  &nbsp; 
-[<img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" width="3.5%"/>](https://www.instagram.com/mwhman_osmanov/)  &nbsp;
+[<img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" width="3.5%"/>](https://www.instagram.com/mehman_osmanov/)  &nbsp;
 <a href="mailto:mehman.osmanow@gmail.com"> <img src="https://img.icons8.com/fluent/48/000000/gmail.png" width="4%"/>
